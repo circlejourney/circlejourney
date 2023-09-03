@@ -6,7 +6,7 @@ Hi, I’m circlejourney! I'm a self-taught web developer. Most of my projects ar
 - **Geolocation and working with ArcGIS datasets**: it's my research interest!
 - **cPanel site administration**: managing records, domains, Apache server configuration
 - **Python**: web scraping, automated wiki management and Discord bots
-- Some experience with MySQL and database management (~3 years)
+- Basic experience with MySQL database management (I mainly used it to maintain [my webcomic database](https://light.circlejourney.net))
 - React.js (learning)
 - Laravel (learning)
 
