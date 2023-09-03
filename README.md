@@ -1,11 +1,12 @@
-Hi, I’m circlejourney! I'm a self-taught web developer who makes a bunch of web things. There's lots on my [website](https://circlejourney.net/interactive), I'm in the process of transferring the more complete projects here, bit by bit.
+Hi, I’m circlejourney! I'm a self-taught web developer. Most of my projects are on my [website](https://circlejourney.net/interactive), though I'm in the process of transferring the more complete projects here.
 
 # Skills
-- Front-end specialist (HTML, CSS, JavaScript with jQuery)
-- PHP (especially backend templating and writing APIs)
-- Python (web scraping, wiki generators, Discord bots)
-- Geolocation and mapping tools (it's my research interest!)
-- Some experience with MySQL and database management
+- **HTML, CSS, JavaScript** (>10 years experience)
+- **PHP**: especially backend templating, writing APIs (>10 years experience)
+- **Geolocation and working with ArcGIS datasets**: it's my research interest!
+- **cPanel site administration**: managing records, domains, Apache server configuration
+- **Python**: web scraping, automated wiki management and Discord bots
+- Some experience with MySQL and database management (~3 years)
 - React.js (learning)
 - Laravel (learning)
 
