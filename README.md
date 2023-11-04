@@ -28,4 +28,3 @@ I'm most familiar with the PHP/Laravel + MySQL + HTML/CSS/JavaScript stack. I am
 - [Art Fight Downloader](https://afdownloader.circlejourney.net)
 - [Toyhouse HTML mass-downloader](https://circlejourney.net/thdownload)
 - HTML to Latex parser
-- 
