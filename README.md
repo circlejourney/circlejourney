@@ -1,10 +1,10 @@
 Hi, I’m circlejourney! My projects can be seen live on my [website](https://circlejourney.net/interactive).
 
 # Full stack web development
-I'm most familiar with the PHP with Laravel + MySQL + HTML CSS JavaScript stack, and am currently developing skills in React.js.
+I'm most familiar with the PHP/Laravel + MySQL + HTML/CSS/JavaScript stack. I am currently developing skills in React.js.
 - **HTML, CSS, JavaScript**: >10 years experience
-- **PHP**: especially backend templating and writing APIs, >10 years experience
-- **Geolocation with Leaflet.js and ArcGIS datasets**: it's my research interest! 5 years experience
+- **PHP**: especially backend templating, file manipulation, and writing APIs, >10 years experience
+- **Geolocation with Leaflet.js and ArcGIS datasets**: My research interest! 5 years experience
 - **Laravel**: 1 year experience
 - **MySQL (MariaDB) database management**: With Laravel MVC
 - **React.js**
@@ -17,7 +17,8 @@ I'm most familiar with the PHP with Laravel + MySQL + HTML CSS JavaScript stack,
 
 # Other relevant skills
 - **cPanel site administration**: managing records, domains, Apache server configuration
-- **Python**: web scraping, automated wiki management with MediaWiki, Discord bots
+- **Node.js**: Discord bots with discord.js
+- **Python**: web scraping, automated wiki management with MediaWiki
 
 ---
 
