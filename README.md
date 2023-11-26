@@ -1,4 +1,4 @@
-### Hi, I’m circlejourney! 🐳 My projects can be seen live on my [website](https://circlejourney.net/interactive).
+### Hi, I’m circlejourney! 🐳 My projects can be seen live on my [website](https://rebuild.circlejourney.net/interactive/).
 
 # Full Stack Web Development
 I'm a web developer who mostly enjoys working with the PHP/Laravel + MySQL + HTML/CSS/JavaScript stack. I also have some experience with React.js and am currently skilling up in the framework.
