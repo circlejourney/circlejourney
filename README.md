@@ -1,13 +1,14 @@
 ### Hi, I’m circlejourney! 🐳 My projects can be seen live on my [website](https://rebuild.circlejourney.net/interactive/).
 
 # Full Stack Web Development
-I'm a web developer who likes to develop narrative, art and creative-oriented websites and web applications. I mostly work with the PHP/Laravel + MySQL + HTML/CSS/JavaScript stack, and also have some experience with React.js (I will publish some React projects soon).
+I'm a web developer who loves making narrative, art and creative-oriented websites and web applications. I mostly work with the PHP/Laravel + MySQL + HTML/CSS/JavaScript stack, and also have some experience with React.js (I will publish some React projects soon).
 - **HTML, CSS, JavaScript**: >10 years' experience
 - **PHP**: especially templating, file manipulation and writing HTTP APIs, >10 years' experience
 - **Geolocation with Leaflet.js and ArcGIS datasets**: 5 years' experience
 - **Laravel**: 1 year's experience
 - **MySQL (MariaDB) database management**: With Laravel MVC
 - **React.js**
+  **UI/UX design**: Wireframing, iterative design, user testing
 
 # Highlight Projects
 - [Toyhouse Live Code Editor](https://github.com/circlejourney/theditor) - A code editor with live preview. Currently has 1,300 daily users. *PHP, HTML, CSS, JavaScript with jQuery, Ace editor.*
