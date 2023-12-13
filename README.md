@@ -27,6 +27,6 @@ I'm a web developer who loves making narrative, art and creative-oriented websit
 
 # Github To-do
 - Spectral Engine (GPS visual novel engine that [Spectral Carta](https://github.com/circlejourney/spectralcarta) is built on)
-- [Art Fight Downloader](https://afdownloader.circlejourney.net)
+- [Art Fight Downloader](https://afdownload.circlejourney.net)
 - [Toyhouse HTML mass-downloader](https://circlejourney.net/thdownload)
 - HTML to Latex parser
