@@ -1,6 +1,6 @@
 ### Hi, I’m circlejourney! 🐳 My projects can be seen live on my [website](https://rebuild.circlejourney.net/interactive/).
 
-I'm a web developer with a focus on narrative and creative-oriented websites and web applications. I mostly work with the PHP/Laravel + MySQL + HTML/CSS/JavaScript stack, and also have some experience with React.js (I will publish some React projects soon).
+I'm a web developer with an interest in narrative and creative-oriented websites and web applications. I mostly work with the PHP/Laravel + MySQL + HTML/CSS/JavaScript stack, and also have some experience with React.js (I will publish some React projects soon).
 - **HTML, CSS, JavaScript**: >10 years' experience
 - **PHP**: especially templating, file manipulation and writing HTTP APIs, >10 years' experience
 - **Geolocation with Leaflet.js and ArcGIS datasets**: 5 years' experience
