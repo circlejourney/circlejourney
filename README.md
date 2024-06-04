@@ -3,7 +3,7 @@
 I'm a web developer with a particular interest in creativity-oriented web apps, games, and virtual places. I mostly work with the PHP/Laravel + MySQL + HTML stack, and also have some experience with React.js.
 - **HTML, CSS, JavaScript**: >10 years
 - **PHP**: >10 years - especially in cURL, templating, file manipulation and writing APIs
-- **Laravel**: 1 year
+- **Laravel**: 2 years
 - **MySQL (MariaDB) database management**: Through phpMyAdmin or Laravel MVC
 - **Geolocation with Leaflet.js and GIS datasets**: 5 years
 - **Site administration**: Managing domain records, scheduled jobs, Apache server configuration
