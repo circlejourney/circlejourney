@@ -4,7 +4,7 @@ I'm a web developer with an interest in narrative and creative-oriented websites
 - **HTML, CSS, JavaScript**: >10 years
 - **PHP**: Templating, file manipulation and writing HTTP APIs, >10 years
 - **Laravel**: 1 year
-- **MySQL (MariaDB) database management**: With Laravel MVC
+- **MySQL (MariaDB) database management**: Through phpMyAdmin or Laravel MVC
 - **Geolocation with Leaflet.js and GIS datasets**: 5 years
 - **Site administration**: Managing domain records, scheduled jobs, Apache server configuration
 - **React.js**: 2 years
