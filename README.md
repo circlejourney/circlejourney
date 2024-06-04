@@ -17,8 +17,6 @@ I'm a web developer with a particular interest in creativity-oriented web apps, 
 - [Image Wall](https://github.com/circlejourney/imagewall) - Tiling image wall generator. *PHP, HTML, CSS, JavaScript with jQuery.*
 - [Interactive commission sheet](https://circlejourney.net/commissions/) - *React.js, Github repo will be added soon...*
 
----
-
 # To-do
 - Spectral Engine (GPS visual novel engine that [Spectral Carta](https://github.com/circlejourney/spectralcarta) is built on)
 - HTML to LaTeX parser
