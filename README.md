@@ -1,4 +1,4 @@
-### Hi, I’m circlejourney! 🐳 My projects can be seen live on my [website](https://rebuild.circlejourney.net/interactive/).
+### Hi, I’m circlejourney / Amari! 🐳 My projects can be seen live on my [website](https://rebuild.circlejourney.net/interactive/).
 
 I'm a web developer with a particular interest in creativity-oriented web apps, games, and virtual places. I mostly work with the PHP/Laravel + MySQL + HTML stack, and also have some experience with React.js.
 - **HTML, CSS, JavaScript**: >10 years
