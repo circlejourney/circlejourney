@@ -10,8 +10,8 @@ I'm a web developer with a particular interest in creativity-oriented web apps, 
 - **React.js**: 2 years
 
 # Highlight Projects
-- [Toyhouse Live Code Editor](https://github.com/circlejourney/theditor) - A code editor with live preview. Currently has 1,300 daily users. *PHP, HTML, CSS, JavaScript with jQuery, Ace editor.*
-- [Art Site](https://github.com/circlejourney/artsite) - An art website in progress! [YoctoCrunch](https://yoctocrunch.carrd.co/) is the UI/UX designer for the project. *Laravel, PHP, MySQL, HTML, CSS, JavaScript with jQuery.*
+- [Toyhouse Live Code Editor](https://github.com/circlejourney/theditor) - A code editor with live preview, with 1,500 daily users. *PHP, HTML, CSS, JavaScript, jQuery, Ace editor.*
+- [Art Site](https://github.com/circlejourney/artsite) - An art website in progress, created with [YoctoCrunch](https://yoctocrunch.carrd.co/) (UI/UX designer). *Laravel, PHP, MySQL, HTML, CSS, JavaScript with jQuery.*
 - [The Spectral Carta](https://github.com/circlejourney/spectralcarta) - A GPS-based exploration game with a desktop version. *HTML, CSS, JavaScript with jQuery, Leaflet.js geolocation.*
 - [Circlejourney.net rebuild](https://github.com/circlejourney/circlejourney-net) - My homepage. *Laravel, PHP, MySQL (MariaDB), HTML, CSS, JavaScript with jQuery.*
 - [Image Wall](https://github.com/circlejourney/imagewall) - Tiling image wall generator. *PHP, HTML, CSS, JavaScript with jQuery.*
