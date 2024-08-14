@@ -8,11 +8,11 @@ I'm a web developer with a particular interest in creativity-oriented web apps, 
 - **Site administration**: DNS management, Apache server configuration and aministration
 
 # Highlight Projects
-- [Toyhouse Live Code Editor](https://github.com/circlejourney/theditor) - A code editor with live preview, with 1,500 daily users. *PHP, HTML, CSS, JavaScript, jQuery, Ace editor.*
-- [chicken.pet](https://chicken.pet) - Pet site with detailed breeding and genetics mechanics, social forums, item trading, and more. *PHP, HTML, CSS, JavaScript, jQuery, Ace editor.*
-- [Art Site](https://github.com/circlejourney/artsite) - An art website in progress, created with [YoctoCrunch](https://yoctocrunch.carrd.co/) (UI/UX designer). *Laravel, PHP, MySQL, HTML, CSS, JavaScript with jQuery.*
+- [Toyhouse Live Code Editor](https://github.com/circlejourney/theditor) - A code editor with live preview, with 1,500 daily users. *PHP, HTML, jQuery, Ace.*
+- [chicken.pet](https://chicken.pet) - Pet site with detailed breeding and genetics mechanics, social forums, item trading, and more. *Laravel, PHP, HTML, jQuery.*
+- [Art Site](https://github.com/circlejourney/artsite) - An art website in progress, created with [YoctoCrunch](https://yoctocrunch.carrd.co/) (UI/UX designer). *Laravel, PHP, MySQL, HTML, jQuery.*
 - [The Spectral Carta](https://github.com/circlejourney/spectralcarta) - A GPS-based exploration game with a desktop version. *HTML, CSS, JavaScript with jQuery, Leaflet.js geolocation.*
-- [Circlejourney.net rebuild](https://github.com/circlejourney/circlejourney-net) - My homepage. *Laravel, PHP, MySQL (MariaDB), HTML, CSS, JavaScript with jQuery.*
+- [Circlejourney.net rebuild](https://github.com/circlejourney/circlejourney-net) - My homepage. *Laravel, PHP, MySQL (MariaDB), HTML, jQuery.*
 - [Image Wall](https://github.com/circlejourney/imagewall) - Tiling image wall generator. *PHP, HTML, CSS, JavaScript with jQuery.*
 - [Interactive commission sheet](https://circlejourney.net/commissions/) - *React.js, Github repo will be added soon...*
 
