@@ -5,7 +5,7 @@ I'm a web developer with a particular interest in creativity-oriented web apps, 
 - **PHP**: Especially in cURL, templating, file manipulation and writing APIs
 - **Laravel**
 - **MySQL (MariaDB) database management**
-- **Site administration**: DNS management, Apache server configuration and aministration
+- **Site administration**: DNS management, Apache server configuration and administration
 
 # Highlight Projects
 - [Toyhouse Live Code Editor](https://github.com/circlejourney/theditor) - A code editor with live preview, with 1,500 daily users. *PHP, HTML, jQuery, Ace.*
