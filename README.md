@@ -1,13 +1,11 @@
 ### Hi, I’m circlejourney / Amari! 🐳 My projects can be seen live on my [website](https://rebuild.circlejourney.net/interactive/).
 
-I'm a web developer with a particular interest in creativity-oriented web apps, games, and virtual places. I mostly work with the PHP/Laravel + MySQL + HTML stack, and also have some experience with React.js.
-- **HTML, CSS, JavaScript**: >10 years
-- **PHP**: >10 years - especially in cURL, templating, file manipulation and writing APIs
-- **Laravel**: 2 years
-- **MySQL (MariaDB) database management**: Through phpMyAdmin or Laravel MVC
-- **Geolocation with Leaflet.js and GIS datasets**: 5 years
-- **Site administration**: Managing domain records, scheduled jobs, Apache server configuration
-- **React.js**: 2 years
+I'm a web developer with a particular interest in creativity-oriented web apps, games, and virtual places. I mostly work with the LAMP stack with high familiarity with Laravel framework and moderate familiarity with React.js.
+- **HTML, CSS, JavaScript**
+- **PHP**: Especially in cURL, templating, file manipulation and writing APIs
+- **Laravel**
+- **MySQL (MariaDB) database management**
+- **Site administration**: DNS management, Apache server configuration and aministration
 
 # Highlight Projects
 - [Toyhouse Live Code Editor](https://github.com/circlejourney/theditor) - A code editor with live preview, with 1,500 daily users. *PHP, HTML, CSS, JavaScript, jQuery, Ace editor.*
