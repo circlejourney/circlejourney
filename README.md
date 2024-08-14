@@ -1,8 +1,8 @@
 ### Hi, I’m circlejourney / Amari! 🐳 My projects can be seen live on my [website](https://rebuild.circlejourney.net/interactive/).
 
-I'm a web developer with a particular interest in creativity-oriented web apps, games, and virtual places. I mostly work with the LAMP stack with high familiarity with Laravel framework and moderate familiarity with React.js.
+I'm a web developer with a particular interest in creativity-oriented web apps, games, and virtual places. I mostly work with the LAMP stack with high familiarity with Laravel framework and jQuery.
 - **HTML, CSS, JavaScript**
-- **PHP**: Especially in cURL, templating, file manipulation and writing APIs
+- **PHP**
 - **Laravel**
 - **MySQL (MariaDB) database management**
 - **Site administration**: DNS management, Apache server configuration and administration
